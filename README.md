@@ -1,1 +1,1 @@
-# Digit_recongnition_CNN
+# Digit_recongnition_ANN
